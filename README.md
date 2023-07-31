@@ -1,11 +1,6 @@
 I am a UTSA student currently majoring in Cyber Security.
 
 :hammer_and_wrench: Technical Skills
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="bash" width="40" height="40"/>&nbsp;
-</div>
-<p> </p>
-<div id="badges">
   <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
